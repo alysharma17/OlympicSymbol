@@ -1,0 +1,13 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+canvas{
+border-width:2px;
+background-color:rgb(214, 214, 214);
+border-style:ridge;
+}
+span {
+	font-size:10px;
+}
